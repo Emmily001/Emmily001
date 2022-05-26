@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmily001
 - 👀 I’m interested in ...Front-end development 
-- 🌱 I’m currently learning ...React 
+- 🌱 I’m currently learning ...Node.js 
 - 💞️ I’m looking to collaborate on .blockchain development 
 - 📫 How to reach me on Findemmanueldev@gmail.com 
 
